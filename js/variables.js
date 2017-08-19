@@ -1,3 +1,6 @@
+'use strict';
+/*przeglądarka ma bardziej restrykcyjnie interpretować nasz kod, zalecane*/
+
 var imie;
 var imieDamskie = "Kaja";
 var wiek = 37;
