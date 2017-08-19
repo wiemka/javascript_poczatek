@@ -24,3 +24,22 @@ var tekst = "Wojtek";
 
 tekst += " Potocki";
 console.log(tekst);
+
+console.log("************");
+
+var liczba = 10;
+var tekst = "10";
+
+console.log(liczba1 == liczba2);
+console.log(liczba1 != liczba2);
+console.log(liczba == tekst);
+console.log(liczba === tekst);
+
+console.log(13 == 5 && 10 == "10");
+console.log(13 == 5 || 10 == "10");
+
+console.log("************");
+console.log(!false);
+
+/*operator warunkowy*/
+(2>5) ? console.log("tak"):console.log("nie")
